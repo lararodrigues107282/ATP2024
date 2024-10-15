@@ -3,7 +3,6 @@
 ## Autor: Lara Machado Rodrigues
 
 ## Resumo
-O TP3 consistiu na realização de um exercício para a criação de uma aplicação em python para manipulação de listas de inteiros, com as seguintes funções:
 O TP4 consistiu na realização de um exercício para a criação de uma aplicação em python para manipulação de listas de inteiros, com as seguintes funções:
 - Criar Lista 
 - Ler Lista
